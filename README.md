@@ -1,2 +1,2 @@
-# VAIDYA
+**VAIDYA**
 ## Arriving soon...
