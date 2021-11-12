@@ -7,8 +7,12 @@
 The only way of accessing/calling an ambulance in India is by calling 102. But what if we are in a place where the signal strength is weak? In India, especially during the pandemic situation, we weren't even sure if an ambulance would reach us for help. What if that situtation occurs again? Every time an ambulance is late to reach it's location, there is a change that we might loose a precious life. 
 
 
-# PROBLEMS WHICH LED TO THE CREATION OF OUR PROJECT
+# PROBLEMS WHICH LED TO THE DEVELOPMENT OF OUR PROJECT
 
 - Poor mobile signal strength.
 - No guarantee if ambulance would reach on time.
 - Time wasted when the patient has to go through primary checks at the hospital before starting the treatment. 
+
+# SOLUTION TO THE PROBLEM STATEMENT
+
+A mobile/web application which would share the location of the emergency with the admin and an ambulance network, which in turn would send the ambulance nearest to the emergency for help.
