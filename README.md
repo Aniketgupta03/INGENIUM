@@ -1,2 +1,2 @@
-# VAIDYA border-bottom: none
+# VAIDYA
 ### Arriving soon...
