@@ -13,6 +13,8 @@ The only way of accessing/calling an ambulance in India is by calling 102. But w
 - No guarantee if ambulance would reach on time.
 - Time wasted when the patient has to go through primary checks at the hospital before starting the treatment. 
 
+<img src="https://user-images.githubusercontent.com/75233364/141436146-b2c48623-d0a4-4193-9657-693805f816cd.png" width="200" height="200">
+
 # SOLUTION TO THE PROBLEM STATEMENT
 
 A mobile/web application which would share the location of the emergency with the admin and an ambulance network, which in turn would send the ambulance nearest to the emergency for help.
