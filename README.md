@@ -15,6 +15,8 @@ The only way of accessing/calling an ambulance in India is by calling 102. But w
 
 <img src="https://user-images.githubusercontent.com/75233364/141436146-b2c48623-d0a4-4193-9657-693805f816cd.png" width="500" height="500">
 
-# SOLUTION TO THE PROBLEM STATEMENT
+# SOLUTION TO THE PROBLEM STATEMENT AND APPROACH
 
-A mobile/web application which would share the location of the emergency with the admin and an ambulance network, which in turn would send the ambulance nearest to the emergency for help.
+A mobile/web application which would share the location of the emergency with the admin and an ambulance network, which in turn would send the ambulance nearest to the emergency for help. We would use the geolocation (Coordinates) of the device from which the emergency is reported. This information would be send to the admin. 
+
+# SCOPE OF THE PROJECT
