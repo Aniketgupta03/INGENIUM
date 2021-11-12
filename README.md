@@ -3,3 +3,5 @@
 </p>
 
 ---
+
+The only way of accessing/calling an ambulance in India is by calling 102. But what if we are in a place where the signal strength is weak? 
