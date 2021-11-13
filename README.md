@@ -23,5 +23,7 @@ A mobile/web application which would share the location of the emergency with th
 
 We could further develop our project by creating a real-time ambulance network. The admin will then have access to the current location of all ambulances. 
 
+---
+
 
 ###### The web applocation is hosted in github-pages and all the code for the mobile application is available in the "APP" folder. Execute the "index.html" in this folder to execute the web app. 
